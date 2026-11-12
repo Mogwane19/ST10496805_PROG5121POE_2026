@@ -8,7 +8,7 @@
 ---
 
 ## Submission Links
-* **GitHub Repository:** https://github.com/Mogwane19/ST10496805_PRLD5121POE_2026
+* **GitHub Repository:** https://github.com/Mogwane19/ST10496805_PROG5121POE_2026.git
 
 ---
 
